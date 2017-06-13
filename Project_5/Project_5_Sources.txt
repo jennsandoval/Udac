@@ -1,0 +1,13 @@
+http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+https://docs.python.org/3/tutorial/datastructures.html
+http://scikit-learn.org/stable/modules/pipeline.html
+http://scikit-learn.org/stable/modules/cross_validation.html
+http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
+http://scikit-learn.org/stable/modules/cross_validation.html
+https://classroom.udacity.com/nanodegrees/nd002/parts/0021345409/modules/317428862475461/lessons/3174288624239847/concepts/31803986370923
+https://www.cs.cmu.edu/~./enron/
+http://www.diveintopython.net/native_data_types/formatting_strings.html
